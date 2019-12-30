@@ -1,0 +1,13 @@
+/* .github-profile {
+    margin: 1rem;
+}
+.info {
+    display: inline-block;
+    margin-left: 12px;
+} */
+img {
+    width: 75px;
+    height: 75px;
+    border-radius: 5px;
+    background-color: beige;
+}
